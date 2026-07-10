@@ -3,7 +3,7 @@
 
 <br>
 
-📫 Reach out to me at [**your_email@example.com**](mailto:your_email@example.com)
+📫 Reach out to me at [**lawrenceabim@gmail.com**](mailto:your_email@example.com)
 
 **Connect with me:**
 <p align="left">
