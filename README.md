@@ -20,7 +20,6 @@ My work spans **cybersecurity and GRC, software engineering, AI evaluation, tech
 - 💻 Experience with **Python, TypeScript, React, Django/DRF, automated testing, and Git**
 - 🤖 Worked on **AI/software engineering evaluation and repository-level task authoring**
 - 🔬 Research experience through **TÜBİTAK-funded energy-system modelling** and cybersecurity/AI research
-- 📍 Currently based in **Berlin, Germany**
 
 ### Selected Work
 
